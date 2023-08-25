@@ -15,8 +15,8 @@ I'm a 22 years old **Full Stack Developer** based in Italy 🇮🇹.
 
 ### 💡 What I'm passionate about:
 
-My enthusiasm for the tech world fuels my desire to learn new tools and languages. In addition to my technical pursuits, I also curiosity in the realm of cybersecurity. 
-🌐 Beyond the digital realm I'm also an enthusiast of the automotive world 🏎️ 🏍️, I also play football ⚽ and occasionally other sports like ski ⛷️.
+My enthusiasm for the tech world fuels my desire to learn new tools and languages. In addition to my technical pursuits, I'm also pretty curious about the whole cybersecurity world. 
+🌐 Beyond the digital realm I'm also an enthusiast of the automotive world 🏎️ 🏍️, I also play football ⚽ and occasionally other activities like ski ⛷️ or swimming 🏊‍♂️.
 
 
 <!--
