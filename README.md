@@ -14,7 +14,7 @@ I'm a 22 years old **Full Stack Developer** based in Italy 🇮🇹.
 ###  Programming Languages: 
 <img src="https://skillicons.dev/icons?i=js,php,python&perline=8">
 
-###  Wep Technologies: 
+###  Web Technologies: 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,sass&perline=8">
 
 ### Backend Developement
