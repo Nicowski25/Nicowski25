@@ -1,7 +1,7 @@
 # Hi there, I'm Nicola! 👋
 
 I'm a 22 years old **Full Stack Developer** based in Italy 🇮🇹. <br>
-I'm adventuring into this new world, so I'm always looking for new challenges to improve my skills and fill myself with experiences.
+I'm venturing into this world, armed with the knowledge from my studies 📚💻, so I'm always looking for new challenges to improve my skills and fill myself with experiences🚀🌟.
 
 ## 🧰 My Toolbox:
 
