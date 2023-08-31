@@ -29,5 +29,5 @@ I'm venturing into this world, armed with the knowledge from my studies 📚💻
 ## 💡 What I'm passionate about:
 
 I'm really enthusiast about the tech world and this drives me to learn new tools and languages. In addition to my technical pursuits, I'm also pretty curious about the whole cybersecurity world. 
-🌐 Beyond the digital realm I'm also an enthusiast of the automotive world 🏎️ 🏍️, I also play football ⚽ and occasionally other activities like ski ⛷️ or swimming 🏊‍♂️.
+🌐 Beyond the digital realm I'm also an enthusiast of the automotive world 🏎️, I also play football ⚽ and occasionally do other activities like enduro 🏍️⛰️, ski ⛷️ or swimming 🏊‍♂️.
 
